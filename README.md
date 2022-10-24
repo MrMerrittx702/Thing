@@ -1,6 +1,6 @@
 # Thing FRQ
 
-### Write your answers in the /src/main/java/Thing.java file.
+### Write your answers in the Thing.java file.
 
 Assume that the classes listed in the Java Quick Reference have been imported where appropriate.  
 
