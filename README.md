@@ -23,8 +23,9 @@ The Thing method printMessage prints a string consisting of the name of the obje
 Suppose the name of the Thing object favFood is "pizza". 
 Write a statement that uses the printMessage method to print the string "pizza_is_great".
 
-## Part C
+## Part C 
 Write a code segment to change the name of the Thing object _something_ such that the new name consists of the old name with one character removed at random. 
 For example, if _something_ has name "ABCD", its new name could be set to "ACD".
+_Part C will be tested outside of Github_
 
     
