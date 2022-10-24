@@ -1,5 +1,7 @@
 # Thing FRQ
 
+### Write your answers in the /src/main/java/Thing.java file.
+
 Assume that the classes listed in the Java Quick Reference have been imported where appropriate.  
 
 Unless otherwise noted in the question, assume that parameters in method calls are not null and that methods are called only when their preconditions are satisfied. 
