@@ -28,6 +28,9 @@ public class Thing {
     //(a) Write the statement below:
     
     
+    //----------------------------------
+    System.out.println(snack.getName());
+    
     //(b)
     Thing favFood = new Thing("pizza");
     //(b) Write the statement below:
